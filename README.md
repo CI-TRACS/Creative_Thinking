@@ -1,2 +1,2 @@
 # Creative_Thinking
-Using SAGE3 to conceptualize climate science resarch projects - the LandSage Flood Disaster application.Workshop on SAGE3 
+Introduction to SAGE 3 and how it can be used across the entire scientific research enterprise
