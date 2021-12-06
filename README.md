@@ -5,6 +5,11 @@ Drawing from the science and the experience of creative practitioners such as an
 
 This hands-on workshop will be conducted using the CyberCANOE running SAGE3 in Keller 103, and will also include a brief tutorial on how to use SAGE3 for information rich collaboration. 
 
+Slides:
+
+  MakeItBrain_Poster_24x36.pdf (summary of brainstorming techniques)
+
+
 SAGE3 can be downloaded at: sage3.sagecommons.org
 Community support for SAGE3 can be found at: tinyurl.com/sagecommunity
 
